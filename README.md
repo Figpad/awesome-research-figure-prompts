@@ -36,13 +36,13 @@ The image and prompt records in this repository were synced from the public [Fig
 
 ## Contents
 
-- [Introduction](#-introduction)
-- [Categories](#categories)
-- [Gallery Preview](#gallery-preview)
-- [Repository Layout](#repository-layout)
-- [How to Use](#how-to-use)
-- [Sync](#sync)
-- [License](#license)
+- 🍌 [Introduction](#-introduction)
+- 🧭 [Categories](#categories)
+- 🖼️ [Gallery Preview](#gallery-preview)
+- 📁 [Repository Layout](#repository-layout)
+- 🚀 [How to Use](#how-to-use)
+- 🔄 [Sync](#sync)
+- 📄 [License](#license)
 
 ## Categories
 
