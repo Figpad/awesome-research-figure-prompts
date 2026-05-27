@@ -66,22 +66,6 @@ Try it on [FigPad](https://figpad.ai/generate-figure).
 
 The image and prompt records in this repository were synced from the public [FigPad inspiration library](https://figpad.ai/inspiration) on 2026-05-27.
 
-<a id="categories"></a>
-
-## Categories
-
-| Category | Prompts | Collection |
-| :-- | --: | :-- |
-| Mechanisms & Pathways | 15 | [Browse](categories/mechanisms-pathways.md) |
-| Process & Workflow | 20 | [Browse](categories/process-workflow.md) |
-| Graphical Abstracts | 16 | [Browse](categories/graphical-abstracts.md) |
-| Lab Apparatus | 16 | [Browse](categories/lab-apparatus.md) |
-| Micro Structures | 15 | [Browse](categories/micro-structures.md) |
-| Systems & Networks | 15 | [Browse](categories/systems-networks.md) |
-| Journal Covers | 15 | [Browse](categories/journal-covers.md) |
-| Cross-Sections & Layers | 15 | [Browse](categories/cross-sections-layers.md) |
-| Environments & Ecologies | 15 | [Browse](categories/environments-ecologies.md) |
-
 <a id="gallery-preview"></a>
 
 ## Gallery Preview
