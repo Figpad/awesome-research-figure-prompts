@@ -30,6 +30,8 @@ This repository is especially useful for researchers who want to create better v
 
 If you find this useful, consider giving it a star. ⭐
 
+Try it on [FigPad](https://figpad.ai/generate-figure).
+
 The image and prompt records in this repository were synced from the public [FigPad inspiration library](https://figpad.ai/inspiration) on 2026-05-27.
 
 ## Contents
