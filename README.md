@@ -1,5 +1,9 @@
 # Awesome Research Figure Prompts 🧬🎨 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center">
+  <img src="images/awesome-research-figure-prompts-hero.png" alt="Awesome Research Figure Prompts hero banner">
+</p>
+
 <div align="center">
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
