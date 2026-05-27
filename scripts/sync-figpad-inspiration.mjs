@@ -85,7 +85,6 @@ const TRANSLATIONS = {
     tryIt: 'Try it on [FigPad](https://figpad.ai/generate-figure).',
     synced: (date) =>
       `The image and prompt records in this repository were synced from the public [FigPad inspiration library](${INSPIRATION_URL}) on ${date}.`,
-    seeAll: (count, file) => `[See all ${count} prompts ->](${file})`,
     layoutBullets: [
       '`images/<category>/` stores the downloaded figure images.',
       '`categories/<category>.md` contains every image and prompt in that category.',
@@ -136,7 +135,6 @@ const TRANSLATIONS = {
     tryIt: '在 [FigPad](https://figpad.ai/generate-figure) 上试用。',
     synced: (date) =>
       `本仓库的图片和提示词记录同步自公开的 [FigPad inspiration library](${INSPIRATION_URL})，同步日期：${date}。`,
-    seeAll: (count, file) => `[查看全部 ${count} 条提示词 ->](${file})`,
     layoutBullets: [
       '`images/<category>/` 存放下载的图像文件。',
       '`categories/<category>.md` 包含该分类下的全部图片和提示词。',
@@ -197,7 +195,6 @@ const TRANSLATIONS = {
     tryIt: '[FigPad](https://figpad.ai/generate-figure)에서 사용해 보세요.',
     synced: (date) =>
       `이 저장소의 이미지와 프롬프트 기록은 공개 [FigPad inspiration library](${INSPIRATION_URL})에서 ${date}에 동기화되었습니다.`,
-    seeAll: (count, file) => `[전체 ${count}개 프롬프트 보기 ->](${file})`,
     layoutBullets: [
       '`images/<category>/`에는 다운로드한 그림 이미지가 저장됩니다.',
       '`categories/<category>.md`에는 해당 카테고리의 모든 이미지와 프롬프트가 들어 있습니다.',
@@ -258,7 +255,6 @@ const TRANSLATIONS = {
     tryIt: '[FigPad](https://figpad.ai/generate-figure) で試す。',
     synced: (date) =>
       `このリポジトリの画像とプロンプト記録は、公開 [FigPad inspiration library](${INSPIRATION_URL}) から ${date} に同期されました。`,
-    seeAll: (count, file) => `[全 ${count} 件のプロンプトを見る ->](${file})`,
     layoutBullets: [
       '`images/<category>/` にはダウンロードした図画像を保存します。',
       '`categories/<category>.md` には各カテゴリの画像とプロンプトをすべて含みます。',
@@ -319,7 +315,6 @@ const TRANSLATIONS = {
     tryIt: 'Pruébalo en [FigPad](https://figpad.ai/generate-figure).',
     synced: (date) =>
       `Los registros de imágenes y prompts de este repositorio se sincronizaron desde la biblioteca pública [FigPad inspiration library](${INSPIRATION_URL}) el ${date}.`,
-    seeAll: (count, file) => `[Ver los ${count} prompts ->](${file})`,
     layoutBullets: [
       '`images/<category>/` almacena las imágenes descargadas.',
       '`categories/<category>.md` contiene todas las imágenes y prompts de esa categoría.',
@@ -380,7 +375,6 @@ const TRANSLATIONS = {
     tryIt: 'Probiere es auf [FigPad](https://figpad.ai/generate-figure) aus.',
     synced: (date) =>
       `Die Bild- und Prompt-Datensätze in diesem Repository wurden am ${date} aus der öffentlichen [FigPad inspiration library](${INSPIRATION_URL}) synchronisiert.`,
-    seeAll: (count, file) => `[Alle ${count} Prompts ansehen ->](${file})`,
     layoutBullets: [
       '`images/<category>/` speichert die heruntergeladenen Abbildungsbilder.',
       '`categories/<category>.md` enthält alle Bilder und Prompts dieser Kategorie.',
@@ -441,7 +435,6 @@ const TRANSLATIONS = {
     tryIt: 'Essayez-le sur [FigPad](https://figpad.ai/generate-figure).',
     synced: (date) =>
       `Les images et prompts de ce dépôt ont été synchronisés depuis la bibliothèque publique [FigPad inspiration library](${INSPIRATION_URL}) le ${date}.`,
-    seeAll: (count, file) => `[Voir les ${count} prompts ->](${file})`,
     layoutBullets: [
       '`images/<category>/` stocke les images téléchargées.',
       '`categories/<category>.md` contient toutes les images et tous les prompts de cette catégorie.',
@@ -502,7 +495,6 @@ const TRANSLATIONS = {
     tryIt: 'Experimente no [FigPad](https://figpad.ai/generate-figure).',
     synced: (date) =>
       `Os registros de imagens e prompts deste repositório foram sincronizados da biblioteca pública [FigPad inspiration library](${INSPIRATION_URL}) em ${date}.`,
-    seeAll: (count, file) => `[Ver todos os ${count} prompts ->](${file})`,
     layoutBullets: [
       '`images/<category>/` armazena as imagens baixadas.',
       '`categories/<category>.md` contém todas as imagens e prompts dessa categoria.',
@@ -563,7 +555,6 @@ const TRANSLATIONS = {
     tryIt: 'Попробуйте в [FigPad](https://figpad.ai/generate-figure).',
     synced: (date) =>
       `Изображения и промпты в этом репозитории синхронизированы из публичной [FigPad inspiration library](${INSPIRATION_URL}) ${date}.`,
-    seeAll: (count, file) => `[Смотреть все промпты: ${count} ->](${file})`,
     layoutBullets: [
       '`images/<category>/` хранит загруженные изображения.',
       '`categories/<category>.md` содержит все изображения и промпты этой категории.',
@@ -624,7 +615,6 @@ const TRANSLATIONS = {
     tryIt: 'ลองใช้บน [FigPad](https://figpad.ai/generate-figure)',
     synced: (date) =>
       `บันทึกรูปภาพและพรอมป์ต์ในรีโพซิทอรีนี้ซิงค์จาก [FigPad inspiration library](${INSPIRATION_URL}) แบบสาธารณะ เมื่อ ${date}`,
-    seeAll: (count, file) => `[ดูพรอมป์ต์ทั้งหมด ${count} รายการ ->](${file})`,
     layoutBullets: [
       '`images/<category>/` เก็บไฟล์ภาพที่ดาวน์โหลดมา',
       '`categories/<category>.md` รวมรูปภาพและพรอมป์ต์ทั้งหมดในหมวดหมู่นั้น',
@@ -706,6 +696,36 @@ function markdownFence(text) {
   const value = String(text || '').trim();
   const fence = value.includes('```') ? '````' : '```';
   return `${fence}text\n${value}\n${fence}`;
+}
+
+function escapeHtml(value) {
+  return String(value || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function renderReadmeGalleryItem(item, caseNumber, translation) {
+  const outputLabel = translation.output || 'Output';
+  const promptLabel = translation.prompt || 'Prompt';
+
+  return `<a id="${item.category}-${shortId(item.id)}"></a>
+
+#### Case ${caseNumber}: ${item.title}
+
+<table>
+  <tr>
+    <th>${outputLabel}</th>
+  </tr>
+  <tr>
+    <td><img src="${item.image}" width="520" alt="${escapeHtml(item.title)}"></td>
+  </tr>
+</table>
+
+**${promptLabel}:**
+
+${markdownFence(item.prompt)}`;
 }
 
 async function fetchJson(url) {
@@ -813,24 +833,25 @@ function renderLanguageSwitcher(activeCode) {
 function renderReadme(items, categories, language = LANGUAGES[0]) {
   const translation = TRANSLATIONS[language.code] || TRANSLATIONS.en;
   const total = items.length;
-  const categoryTable = categories
-    .map(
-      (category) =>
-        `| ${categoryLabel(category, translation)} | ${category.count} | [${translation.browse}](${category.file}) |`
-    )
-    .join('\n');
+  const caseNumbers = new Map(
+    items.map((item, index) => [item.id, String(index + 1).padStart(3, '0')])
+  );
 
   const gallery = categories
     .map((category) => {
       const label = categoryLabel(category, translation);
-      const samples = items.filter((item) => item.category === category.slug).slice(0, 3);
-      const cells = samples
-        .map(
-          (item) =>
-            `<a href="${category.file}#${asSlug(item.title)}"><img src="${item.image}" width="240" alt="${item.title}"></a>`
+      const entries = items
+        .filter((item) => item.category === category.slug)
+        .map((item) =>
+          renderReadmeGalleryItem(item, caseNumbers.get(item.id), translation)
         )
-        .join(' ');
-      return `### ${label}\n\n${cells}\n\n${translation.seeAll(category.count, category.file)}`;
+        .join('\n\n');
+
+      return `<a id="${category.slug}"></a>
+
+### ${label}
+
+${entries}`;
     })
     .join('\n\n');
 
@@ -841,7 +862,7 @@ function renderReadme(items, categories, language = LANGUAGES[0]) {
         `- ${CATEGORY_ICONS[category.slug] || '🔎'} [${categoryLabel(
           category,
           translation
-        )}](${category.file})`
+        )}](#${category.slug})`
     ),
     `- 🖼️ [${translation.galleryPreview}](#gallery-preview)`,
     `- 📁 [${translation.repositoryLayout}](#repository-layout)`,
@@ -851,6 +872,10 @@ function renderReadme(items, categories, language = LANGUAGES[0]) {
   ].join('\n');
 
   return `# Awesome Research Figure Prompts 🧬🎨 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<p align="center">
+  <img src="images/awesome-research-figure-prompts-hero.png" alt="Awesome Research Figure Prompts hero banner">
+</p>
 
 <div align="center">
 
@@ -890,14 +915,6 @@ ${translation.star}
 ${translation.tryIt}
 
 ${translation.synced(SYNC_DATE)}
-
-<a id="categories"></a>
-
-## ${translation.categories}
-
-| ${translation.category} | ${translation.prompts} | ${translation.collection} |
-| :-- | --: | :-- |
-${categoryTable}
 
 <a id="gallery-preview"></a>
 
