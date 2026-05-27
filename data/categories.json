@@ -1,0 +1,61 @@
+{
+  "source": "https://figpad.ai/inspiration",
+  "syncedAt": "2026-05-27",
+  "total": 9,
+  "categories": [
+    {
+      "slug": "mechanisms-pathways",
+      "label": "Mechanisms & Pathways",
+      "count": 15,
+      "file": "categories/mechanisms-pathways.md"
+    },
+    {
+      "slug": "process-workflow",
+      "label": "Process & Workflow",
+      "count": 20,
+      "file": "categories/process-workflow.md"
+    },
+    {
+      "slug": "graphical-abstracts",
+      "label": "Graphical Abstracts",
+      "count": 16,
+      "file": "categories/graphical-abstracts.md"
+    },
+    {
+      "slug": "lab-apparatus",
+      "label": "Lab Apparatus",
+      "count": 16,
+      "file": "categories/lab-apparatus.md"
+    },
+    {
+      "slug": "micro-structures",
+      "label": "Micro Structures",
+      "count": 15,
+      "file": "categories/micro-structures.md"
+    },
+    {
+      "slug": "systems-networks",
+      "label": "Systems & Networks",
+      "count": 15,
+      "file": "categories/systems-networks.md"
+    },
+    {
+      "slug": "journal-covers",
+      "label": "Journal Covers",
+      "count": 15,
+      "file": "categories/journal-covers.md"
+    },
+    {
+      "slug": "cross-sections-layers",
+      "label": "Cross-Sections & Layers",
+      "count": 15,
+      "file": "categories/cross-sections-layers.md"
+    },
+    {
+      "slug": "environments-ecologies",
+      "label": "Environments & Ecologies",
+      "count": 15,
+      "file": "categories/environments-ecologies.md"
+    }
+  ]
+}
