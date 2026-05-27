@@ -72,6 +72,9 @@
 
 <a id="mechanisms-pathways"></a>
 
+<details>
+<summary><strong>🧬 기전 및 경로</strong> (15 prompts)</summary>
+
 ### 기전 및 경로
 
 <a id="mechanisms-pathways-6c564f8c"></a>
@@ -471,7 +474,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="process-workflow"></a>
+
+<details>
+<summary><strong>🔄 프로세스 및 워크플로</strong> (20 prompts)</summary>
 
 ### 프로세스 및 워크플로
 
@@ -965,7 +973,12 @@ Requirements:
 - high legibility labels with consistent typography
 ```
 
+</details>
+
 <a id="graphical-abstracts"></a>
+
+<details>
+<summary><strong>📊 그래픽 초록</strong> (16 prompts)</summary>
 
 ### 그래픽 초록
 
@@ -1385,7 +1398,12 @@ Requirements:
 - subtle cream paper texture background to achieve premium archival look
 ```
 
+</details>
+
 <a id="lab-apparatus"></a>
+
+<details>
+<summary><strong>🧪 실험 장비</strong> (16 prompts)</summary>
 
 ### 실험 장비
 
@@ -1805,7 +1823,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="micro-structures"></a>
+
+<details>
+<summary><strong>🔬 미세 구조</strong> (15 prompts)</summary>
 
 ### 미세 구조
 
@@ -2263,7 +2286,12 @@ Requirements:
 - balanced pastel-accent palette while retaining scientific rigor
 ```
 
+</details>
+
 <a id="systems-networks"></a>
+
+<details>
+<summary><strong>🕸️ 시스템 및 네트워크</strong> (15 prompts)</summary>
 
 ### 시스템 및 네트워크
 
@@ -2717,7 +2745,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="journal-covers"></a>
+
+<details>
+<summary><strong>🎨 저널 커버</strong> (15 prompts)</summary>
 
 ### 저널 커버
 
@@ -3175,7 +3208,12 @@ Requirements:
 - scientifically plausible structures and anatomically coherent details
 ```
 
+</details>
+
 <a id="cross-sections-layers"></a>
+
+<details>
+<summary><strong>🧱 단면 및 레이어</strong> (15 prompts)</summary>
 
 ### 단면 및 레이어
 
@@ -3633,7 +3671,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="environments-ecologies"></a>
+
+<details>
+<summary><strong>🌍 환경 및 생태</strong> (15 prompts)</summary>
 
 ### 환경 및 생태
 
@@ -4091,6 +4134,8 @@ Requirements:
 - natural science atlas / textbook style with rigorous scientific annotation
 - subtle cream paper texture background to achieve premium archival look
 ```
+
+</details>
 
 <a id="repository-layout"></a>
 

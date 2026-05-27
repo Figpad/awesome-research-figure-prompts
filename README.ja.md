@@ -72,6 +72,9 @@
 
 <a id="mechanisms-pathways"></a>
 
+<details>
+<summary><strong>🧬 メカニズムと経路</strong> (15 prompts)</summary>
+
 ### メカニズムと経路
 
 <a id="mechanisms-pathways-6c564f8c"></a>
@@ -471,7 +474,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="process-workflow"></a>
+
+<details>
+<summary><strong>🔄 プロセスとワークフロー</strong> (20 prompts)</summary>
 
 ### プロセスとワークフロー
 
@@ -965,7 +973,12 @@ Requirements:
 - high legibility labels with consistent typography
 ```
 
+</details>
+
 <a id="graphical-abstracts"></a>
+
+<details>
+<summary><strong>📊 グラフィカルアブストラクト</strong> (16 prompts)</summary>
 
 ### グラフィカルアブストラクト
 
@@ -1385,7 +1398,12 @@ Requirements:
 - subtle cream paper texture background to achieve premium archival look
 ```
 
+</details>
+
 <a id="lab-apparatus"></a>
+
+<details>
+<summary><strong>🧪 実験装置</strong> (16 prompts)</summary>
 
 ### 実験装置
 
@@ -1805,7 +1823,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="micro-structures"></a>
+
+<details>
+<summary><strong>🔬 微細構造</strong> (15 prompts)</summary>
 
 ### 微細構造
 
@@ -2263,7 +2286,12 @@ Requirements:
 - balanced pastel-accent palette while retaining scientific rigor
 ```
 
+</details>
+
 <a id="systems-networks"></a>
+
+<details>
+<summary><strong>🕸️ システムとネットワーク</strong> (15 prompts)</summary>
 
 ### システムとネットワーク
 
@@ -2717,7 +2745,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="journal-covers"></a>
+
+<details>
+<summary><strong>🎨 ジャーナルカバー</strong> (15 prompts)</summary>
 
 ### ジャーナルカバー
 
@@ -3175,7 +3208,12 @@ Requirements:
 - scientifically plausible structures and anatomically coherent details
 ```
 
+</details>
+
 <a id="cross-sections-layers"></a>
+
+<details>
+<summary><strong>🧱 断面とレイヤー</strong> (15 prompts)</summary>
 
 ### 断面とレイヤー
 
@@ -3633,7 +3671,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="environments-ecologies"></a>
+
+<details>
+<summary><strong>🌍 環境と生態系</strong> (15 prompts)</summary>
 
 ### 環境と生態系
 
@@ -4091,6 +4134,8 @@ Requirements:
 - natural science atlas / textbook style with rigorous scientific annotation
 - subtle cream paper texture background to achieve premium archival look
 ```
+
+</details>
 
 <a id="repository-layout"></a>
 

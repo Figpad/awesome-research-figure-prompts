@@ -840,6 +840,7 @@ function renderReadme(items, categories, language = LANGUAGES[0]) {
   const gallery = categories
     .map((category) => {
       const label = categoryLabel(category, translation);
+      const icon = CATEGORY_ICONS[category.slug] || '🔎';
       const entries = items
         .filter((item) => item.category === category.slug)
         .map((item) =>
@@ -849,9 +850,14 @@ function renderReadme(items, categories, language = LANGUAGES[0]) {
 
       return `<a id="${category.slug}"></a>
 
+<details>
+<summary><strong>${icon} ${label}</strong> (${category.count} prompts)</summary>
+
 ### ${label}
 
-${entries}`;
+${entries}
+
+</details>`;
     })
     .join('\n\n');
 

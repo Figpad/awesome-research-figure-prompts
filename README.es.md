@@ -72,6 +72,9 @@ Los registros de imágenes y prompts de este repositorio se sincronizaron desde 
 
 <a id="mechanisms-pathways"></a>
 
+<details>
+<summary><strong>🧬 Mecanismos y vías</strong> (15 prompts)</summary>
+
 ### Mecanismos y vías
 
 <a id="mechanisms-pathways-6c564f8c"></a>
@@ -471,7 +474,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="process-workflow"></a>
+
+<details>
+<summary><strong>🔄 Procesos y flujos de trabajo</strong> (20 prompts)</summary>
 
 ### Procesos y flujos de trabajo
 
@@ -965,7 +973,12 @@ Requirements:
 - high legibility labels with consistent typography
 ```
 
+</details>
+
 <a id="graphical-abstracts"></a>
+
+<details>
+<summary><strong>📊 Resúmenes gráficos</strong> (16 prompts)</summary>
 
 ### Resúmenes gráficos
 
@@ -1385,7 +1398,12 @@ Requirements:
 - subtle cream paper texture background to achieve premium archival look
 ```
 
+</details>
+
 <a id="lab-apparatus"></a>
+
+<details>
+<summary><strong>🧪 Aparatos de laboratorio</strong> (16 prompts)</summary>
 
 ### Aparatos de laboratorio
 
@@ -1805,7 +1823,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="micro-structures"></a>
+
+<details>
+<summary><strong>🔬 Microestructuras</strong> (15 prompts)</summary>
 
 ### Microestructuras
 
@@ -2263,7 +2286,12 @@ Requirements:
 - balanced pastel-accent palette while retaining scientific rigor
 ```
 
+</details>
+
 <a id="systems-networks"></a>
+
+<details>
+<summary><strong>🕸️ Sistemas y redes</strong> (15 prompts)</summary>
 
 ### Sistemas y redes
 
@@ -2717,7 +2745,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="journal-covers"></a>
+
+<details>
+<summary><strong>🎨 Portadas de revistas</strong> (15 prompts)</summary>
 
 ### Portadas de revistas
 
@@ -3175,7 +3208,12 @@ Requirements:
 - scientifically plausible structures and anatomically coherent details
 ```
 
+</details>
+
 <a id="cross-sections-layers"></a>
+
+<details>
+<summary><strong>🧱 Cortes transversales y capas</strong> (15 prompts)</summary>
 
 ### Cortes transversales y capas
 
@@ -3633,7 +3671,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="environments-ecologies"></a>
+
+<details>
+<summary><strong>🌍 Ambientes y ecologías</strong> (15 prompts)</summary>
 
 ### Ambientes y ecologías
 
@@ -4091,6 +4134,8 @@ Requirements:
 - natural science atlas / textbook style with rigorous scientific annotation
 - subtle cream paper texture background to achieve premium archival look
 ```
+
+</details>
 
 <a id="repository-layout"></a>
 

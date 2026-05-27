@@ -72,6 +72,9 @@
 
 <a id="mechanisms-pathways"></a>
 
+<details>
+<summary><strong>🧬 กลไกและเส้นทาง</strong> (15 prompts)</summary>
+
 ### กลไกและเส้นทาง
 
 <a id="mechanisms-pathways-6c564f8c"></a>
@@ -471,7 +474,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="process-workflow"></a>
+
+<details>
+<summary><strong>🔄 กระบวนการและเวิร์กโฟลว์</strong> (20 prompts)</summary>
 
 ### กระบวนการและเวิร์กโฟลว์
 
@@ -965,7 +973,12 @@ Requirements:
 - high legibility labels with consistent typography
 ```
 
+</details>
+
 <a id="graphical-abstracts"></a>
+
+<details>
+<summary><strong>📊 บทคัดย่อกราฟิก</strong> (16 prompts)</summary>
 
 ### บทคัดย่อกราฟิก
 
@@ -1385,7 +1398,12 @@ Requirements:
 - subtle cream paper texture background to achieve premium archival look
 ```
 
+</details>
+
 <a id="lab-apparatus"></a>
+
+<details>
+<summary><strong>🧪 อุปกรณ์ห้องปฏิบัติการ</strong> (16 prompts)</summary>
 
 ### อุปกรณ์ห้องปฏิบัติการ
 
@@ -1805,7 +1823,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="micro-structures"></a>
+
+<details>
+<summary><strong>🔬 โครงสร้างระดับจุลภาค</strong> (15 prompts)</summary>
 
 ### โครงสร้างระดับจุลภาค
 
@@ -2263,7 +2286,12 @@ Requirements:
 - balanced pastel-accent palette while retaining scientific rigor
 ```
 
+</details>
+
 <a id="systems-networks"></a>
+
+<details>
+<summary><strong>🕸️ ระบบและเครือข่าย</strong> (15 prompts)</summary>
 
 ### ระบบและเครือข่าย
 
@@ -2717,7 +2745,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="journal-covers"></a>
+
+<details>
+<summary><strong>🎨 ปกวารสาร</strong> (15 prompts)</summary>
 
 ### ปกวารสาร
 
@@ -3175,7 +3208,12 @@ Requirements:
 - scientifically plausible structures and anatomically coherent details
 ```
 
+</details>
+
 <a id="cross-sections-layers"></a>
+
+<details>
+<summary><strong>🧱 ภาพตัดขวางและชั้น</strong> (15 prompts)</summary>
 
 ### ภาพตัดขวางและชั้น
 
@@ -3633,7 +3671,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="environments-ecologies"></a>
+
+<details>
+<summary><strong>🌍 สิ่งแวดล้อมและนิเวศวิทยา</strong> (15 prompts)</summary>
 
 ### สิ่งแวดล้อมและนิเวศวิทยา
 
@@ -4091,6 +4134,8 @@ Requirements:
 - natural science atlas / textbook style with rigorous scientific annotation
 - subtle cream paper texture background to achieve premium archival look
 ```
+
+</details>
 
 <a id="repository-layout"></a>
 

@@ -72,6 +72,9 @@ Die Bild- und Prompt-Datensätze in diesem Repository wurden am 2026-05-27 aus d
 
 <a id="mechanisms-pathways"></a>
 
+<details>
+<summary><strong>🧬 Mechanismen und Signalwege</strong> (15 prompts)</summary>
+
 ### Mechanismen und Signalwege
 
 <a id="mechanisms-pathways-6c564f8c"></a>
@@ -471,7 +474,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="process-workflow"></a>
+
+<details>
+<summary><strong>🔄 Prozesse und Workflows</strong> (20 prompts)</summary>
 
 ### Prozesse und Workflows
 
@@ -965,7 +973,12 @@ Requirements:
 - high legibility labels with consistent typography
 ```
 
+</details>
+
 <a id="graphical-abstracts"></a>
+
+<details>
+<summary><strong>📊 Grafische Abstracts</strong> (16 prompts)</summary>
 
 ### Grafische Abstracts
 
@@ -1385,7 +1398,12 @@ Requirements:
 - subtle cream paper texture background to achieve premium archival look
 ```
 
+</details>
+
 <a id="lab-apparatus"></a>
+
+<details>
+<summary><strong>🧪 Laborgeräte</strong> (16 prompts)</summary>
 
 ### Laborgeräte
 
@@ -1805,7 +1823,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="micro-structures"></a>
+
+<details>
+<summary><strong>🔬 Mikrostrukturen</strong> (15 prompts)</summary>
 
 ### Mikrostrukturen
 
@@ -2263,7 +2286,12 @@ Requirements:
 - balanced pastel-accent palette while retaining scientific rigor
 ```
 
+</details>
+
 <a id="systems-networks"></a>
+
+<details>
+<summary><strong>🕸️ Systeme und Netzwerke</strong> (15 prompts)</summary>
 
 ### Systeme und Netzwerke
 
@@ -2717,7 +2745,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="journal-covers"></a>
+
+<details>
+<summary><strong>🎨 Journal-Cover</strong> (15 prompts)</summary>
 
 ### Journal-Cover
 
@@ -3175,7 +3208,12 @@ Requirements:
 - scientifically plausible structures and anatomically coherent details
 ```
 
+</details>
+
 <a id="cross-sections-layers"></a>
+
+<details>
+<summary><strong>🧱 Querschnitte und Schichten</strong> (15 prompts)</summary>
 
 ### Querschnitte und Schichten
 
@@ -3633,7 +3671,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="environments-ecologies"></a>
+
+<details>
+<summary><strong>🌍 Umwelten und Ökologien</strong> (15 prompts)</summary>
 
 ### Umwelten und Ökologien
 
@@ -4091,6 +4134,8 @@ Requirements:
 - natural science atlas / textbook style with rigorous scientific annotation
 - subtle cream paper texture background to achieve premium archival look
 ```
+
+</details>
 
 <a id="repository-layout"></a>
 

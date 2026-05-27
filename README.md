@@ -72,6 +72,9 @@ The image and prompt records in this repository were synced from the public [Fig
 
 <a id="mechanisms-pathways"></a>
 
+<details>
+<summary><strong>🧬 Mechanisms & Pathways</strong> (15 prompts)</summary>
+
 ### Mechanisms & Pathways
 
 <a id="mechanisms-pathways-6c564f8c"></a>
@@ -471,7 +474,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="process-workflow"></a>
+
+<details>
+<summary><strong>🔄 Process & Workflow</strong> (20 prompts)</summary>
 
 ### Process & Workflow
 
@@ -965,7 +973,12 @@ Requirements:
 - high legibility labels with consistent typography
 ```
 
+</details>
+
 <a id="graphical-abstracts"></a>
+
+<details>
+<summary><strong>📊 Graphical Abstracts</strong> (16 prompts)</summary>
 
 ### Graphical Abstracts
 
@@ -1385,7 +1398,12 @@ Requirements:
 - subtle cream paper texture background to achieve premium archival look
 ```
 
+</details>
+
 <a id="lab-apparatus"></a>
+
+<details>
+<summary><strong>🧪 Lab Apparatus</strong> (16 prompts)</summary>
 
 ### Lab Apparatus
 
@@ -1805,7 +1823,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="micro-structures"></a>
+
+<details>
+<summary><strong>🔬 Micro Structures</strong> (15 prompts)</summary>
 
 ### Micro Structures
 
@@ -2263,7 +2286,12 @@ Requirements:
 - balanced pastel-accent palette while retaining scientific rigor
 ```
 
+</details>
+
 <a id="systems-networks"></a>
+
+<details>
+<summary><strong>🕸️ Systems & Networks</strong> (15 prompts)</summary>
 
 ### Systems & Networks
 
@@ -2717,7 +2745,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="journal-covers"></a>
+
+<details>
+<summary><strong>🎨 Journal Covers</strong> (15 prompts)</summary>
 
 ### Journal Covers
 
@@ -3175,7 +3208,12 @@ Requirements:
 - scientifically plausible structures and anatomically coherent details
 ```
 
+</details>
+
 <a id="cross-sections-layers"></a>
+
+<details>
+<summary><strong>🧱 Cross-Sections & Layers</strong> (15 prompts)</summary>
 
 ### Cross-Sections & Layers
 
@@ -3633,7 +3671,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="environments-ecologies"></a>
+
+<details>
+<summary><strong>🌍 Environments & Ecologies</strong> (15 prompts)</summary>
 
 ### Environments & Ecologies
 
@@ -4091,6 +4134,8 @@ Requirements:
 - natural science atlas / textbook style with rigorous scientific annotation
 - subtle cream paper texture background to achieve premium archival look
 ```
+
+</details>
 
 <a id="repository-layout"></a>
 

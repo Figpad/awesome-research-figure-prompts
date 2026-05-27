@@ -72,6 +72,9 @@
 
 <a id="mechanisms-pathways"></a>
 
+<details>
+<summary><strong>🧬 Механизмы и пути</strong> (15 prompts)</summary>
+
 ### Механизмы и пути
 
 <a id="mechanisms-pathways-6c564f8c"></a>
@@ -471,7 +474,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="process-workflow"></a>
+
+<details>
+<summary><strong>🔄 Процессы и рабочие потоки</strong> (20 prompts)</summary>
 
 ### Процессы и рабочие потоки
 
@@ -965,7 +973,12 @@ Requirements:
 - high legibility labels with consistent typography
 ```
 
+</details>
+
 <a id="graphical-abstracts"></a>
+
+<details>
+<summary><strong>📊 Графические аннотации</strong> (16 prompts)</summary>
 
 ### Графические аннотации
 
@@ -1385,7 +1398,12 @@ Requirements:
 - subtle cream paper texture background to achieve premium archival look
 ```
 
+</details>
+
 <a id="lab-apparatus"></a>
+
+<details>
+<summary><strong>🧪 Лабораторное оборудование</strong> (16 prompts)</summary>
 
 ### Лабораторное оборудование
 
@@ -1805,7 +1823,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="micro-structures"></a>
+
+<details>
+<summary><strong>🔬 Микроструктуры</strong> (15 prompts)</summary>
 
 ### Микроструктуры
 
@@ -2263,7 +2286,12 @@ Requirements:
 - balanced pastel-accent palette while retaining scientific rigor
 ```
 
+</details>
+
 <a id="systems-networks"></a>
+
+<details>
+<summary><strong>🕸️ Системы и сети</strong> (15 prompts)</summary>
 
 ### Системы и сети
 
@@ -2717,7 +2745,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="journal-covers"></a>
+
+<details>
+<summary><strong>🎨 Обложки журналов</strong> (15 prompts)</summary>
 
 ### Обложки журналов
 
@@ -3175,7 +3208,12 @@ Requirements:
 - scientifically plausible structures and anatomically coherent details
 ```
 
+</details>
+
 <a id="cross-sections-layers"></a>
+
+<details>
+<summary><strong>🧱 Срезы и слои</strong> (15 prompts)</summary>
 
 ### Срезы и слои
 
@@ -3633,7 +3671,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="environments-ecologies"></a>
+
+<details>
+<summary><strong>🌍 Среды и экологии</strong> (15 prompts)</summary>
 
 ### Среды и экологии
 
@@ -4091,6 +4134,8 @@ Requirements:
 - natural science atlas / textbook style with rigorous scientific annotation
 - subtle cream paper texture background to achieve premium archival look
 ```
+
+</details>
 
 <a id="repository-layout"></a>
 

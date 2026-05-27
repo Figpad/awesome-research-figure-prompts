@@ -72,6 +72,9 @@ Les images et prompts de ce dépôt ont été synchronisés depuis la bibliothè
 
 <a id="mechanisms-pathways"></a>
 
+<details>
+<summary><strong>🧬 Mécanismes et voies</strong> (15 prompts)</summary>
+
 ### Mécanismes et voies
 
 <a id="mechanisms-pathways-6c564f8c"></a>
@@ -471,7 +474,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="process-workflow"></a>
+
+<details>
+<summary><strong>🔄 Processus et workflows</strong> (20 prompts)</summary>
 
 ### Processus et workflows
 
@@ -965,7 +973,12 @@ Requirements:
 - high legibility labels with consistent typography
 ```
 
+</details>
+
 <a id="graphical-abstracts"></a>
+
+<details>
+<summary><strong>📊 Résumés graphiques</strong> (16 prompts)</summary>
 
 ### Résumés graphiques
 
@@ -1385,7 +1398,12 @@ Requirements:
 - subtle cream paper texture background to achieve premium archival look
 ```
 
+</details>
+
 <a id="lab-apparatus"></a>
+
+<details>
+<summary><strong>🧪 Appareils de laboratoire</strong> (16 prompts)</summary>
 
 ### Appareils de laboratoire
 
@@ -1805,7 +1823,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="micro-structures"></a>
+
+<details>
+<summary><strong>🔬 Microstructures</strong> (15 prompts)</summary>
 
 ### Microstructures
 
@@ -2263,7 +2286,12 @@ Requirements:
 - balanced pastel-accent palette while retaining scientific rigor
 ```
 
+</details>
+
 <a id="systems-networks"></a>
+
+<details>
+<summary><strong>🕸️ Systèmes et réseaux</strong> (15 prompts)</summary>
 
 ### Systèmes et réseaux
 
@@ -2717,7 +2745,12 @@ Requirements:
 - few but meaningful colors for process emphasis
 ```
 
+</details>
+
 <a id="journal-covers"></a>
+
+<details>
+<summary><strong>🎨 Couvertures de revues</strong> (15 prompts)</summary>
 
 ### Couvertures de revues
 
@@ -3175,7 +3208,12 @@ Requirements:
 - scientifically plausible structures and anatomically coherent details
 ```
 
+</details>
+
 <a id="cross-sections-layers"></a>
+
+<details>
+<summary><strong>🧱 Coupes et couches</strong> (15 prompts)</summary>
 
 ### Coupes et couches
 
@@ -3633,7 +3671,12 @@ Requirements:
 - avoid photoreal clutter and keep annotation zones clean
 ```
 
+</details>
+
 <a id="environments-ecologies"></a>
+
+<details>
+<summary><strong>🌍 Environnements et écologies</strong> (15 prompts)</summary>
 
 ### Environnements et écologies
 
@@ -4091,6 +4134,8 @@ Requirements:
 - natural science atlas / textbook style with rigorous scientific annotation
 - subtle cream paper texture background to achieve premium archival look
 ```
+
+</details>
 
 <a id="repository-layout"></a>
 
