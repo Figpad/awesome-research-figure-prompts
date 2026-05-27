@@ -9,6 +9,24 @@
 
 </div>
 
+## Contents
+
+- 🍌 [Introduction](#-introduction)
+- 🧬 [Mechanisms & Pathways](categories/mechanisms-pathways.md)
+- 🔄 [Process & Workflow](categories/process-workflow.md)
+- 📊 [Graphical Abstracts](categories/graphical-abstracts.md)
+- 🧪 [Lab Apparatus](categories/lab-apparatus.md)
+- 🔬 [Micro Structures](categories/micro-structures.md)
+- 🕸️ [Systems & Networks](categories/systems-networks.md)
+- 🎨 [Journal Covers](categories/journal-covers.md)
+- 🧱 [Cross-Sections & Layers](categories/cross-sections-layers.md)
+- 🌍 [Environments & Ecologies](categories/environments-ecologies.md)
+- 🖼️ [Gallery Preview](#gallery-preview)
+- 📁 [Repository Layout](#repository-layout)
+- 🚀 [How to Use](#how-to-use)
+- 🔄 [Sync](#sync)
+- 📄 [License](#license)
+
 ## 🍌 Introduction
 
 Welcome to the **Awesome Research Figure Prompts** repository! 🤗
@@ -33,24 +51,6 @@ If you find this useful, consider giving it a star. ⭐
 Try it on [FigPad](https://figpad.ai/generate-figure).
 
 The image and prompt records in this repository were synced from the public [FigPad inspiration library](https://figpad.ai/inspiration) on 2026-05-27.
-
-## Contents
-
-- 🍌 [Introduction](#-introduction)
-- 🧬 [Mechanisms & Pathways](categories/mechanisms-pathways.md)
-- 🔄 [Process & Workflow](categories/process-workflow.md)
-- 📊 [Graphical Abstracts](categories/graphical-abstracts.md)
-- 🧪 [Lab Apparatus](categories/lab-apparatus.md)
-- 🔬 [Micro Structures](categories/micro-structures.md)
-- 🕸️ [Systems & Networks](categories/systems-networks.md)
-- 🎨 [Journal Covers](categories/journal-covers.md)
-- 🧱 [Cross-Sections & Layers](categories/cross-sections-layers.md)
-- 🌍 [Environments & Ecologies](categories/environments-ecologies.md)
-- 🖼️ [Gallery Preview](#gallery-preview)
-- 📁 [Repository Layout](#repository-layout)
-- 🚀 [How to Use](#how-to-use)
-- 🔄 [Sync](#sync)
-- 📄 [License](#license)
 
 ## Categories
 
