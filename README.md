@@ -37,7 +37,15 @@ The image and prompt records in this repository were synced from the public [Fig
 ## Contents
 
 - 🍌 [Introduction](#-introduction)
-- 🧭 [Categories](#categories)
+- 🧬 [Mechanisms & Pathways](categories/mechanisms-pathways.md)
+- 🔄 [Process & Workflow](categories/process-workflow.md)
+- 📊 [Graphical Abstracts](categories/graphical-abstracts.md)
+- 🧪 [Lab Apparatus](categories/lab-apparatus.md)
+- 🔬 [Micro Structures](categories/micro-structures.md)
+- 🕸️ [Systems & Networks](categories/systems-networks.md)
+- 🎨 [Journal Covers](categories/journal-covers.md)
+- 🧱 [Cross-Sections & Layers](categories/cross-sections-layers.md)
+- 🌍 [Environments & Ecologies](categories/environments-ecologies.md)
 - 🖼️ [Gallery Preview](#gallery-preview)
 - 📁 [Repository Layout](#repository-layout)
 - 🚀 [How to Use](#how-to-use)
